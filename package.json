@@ -1,0 +1,22 @@
+{
+  "name": "img_markdown",
+  "version": "1.0.0",
+  "description": "just for insert Image for markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablezhang/img_markdown.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "luckybo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablezhang/img_markdown/issues"
+  },
+  "homepage": "https://github.com/pablezhang/img_markdown#readme"
+}
